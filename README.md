@@ -1,10 +1,10 @@
-# 🤖 BOM AI Assistant
+# BOM AI Assistant
 
 An interactive AI-powered assistant that answers natural language questions about a Bill of Materials (BOM) using **LangChain**, **OpenRouter GPT**, **Pandas**, and **Streamlit**. This chatbot allows users to explore and analyze structured product data without writing code.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **LangChain** – Agent and prompt orchestration
 - **OpenRouter** – Free GPT-4-style model provider (Mistral 7B used)
@@ -14,7 +14,7 @@ An interactive AI-powered assistant that answers natural language questions abou
 
 ---
 
-## 🚀 Features
+## Features
 
 - Ask natural-language questions like:
   - “What is the total cost of all parts?”
@@ -37,7 +37,7 @@ bom-ai-assistant/
 └── README.md # You're here!
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Install Requirements
 
