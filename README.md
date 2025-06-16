@@ -46,3 +46,4 @@ pip install -r requirements.txt
 pip install pandas langchain streamlit langchain-openai langchain-experimental openrouter tabulate
 ##Run the web app:
 streamlit run bom_ai_app.py
+You can get a free api from : https://openrouter.ai
