@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 # Set up your model (using OpenRouter)
 llm = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
-    openai_api_key="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",
+    openai_api_key="your_key",
     model="mistralai/mistral-7b-instruct:free",
     temperature=0
 )
