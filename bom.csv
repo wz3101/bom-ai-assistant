@@ -1,0 +1,5 @@
+id,name,category,unit_cost,quantity
+1,Resistor,Electrical,0.25,1000
+2,Motor,Mechanical,15.5,10
+3,Capacitor,Electrical,0.35,500
+4,Gear,Mechanical,6.75,20
